@@ -22,9 +22,8 @@ This portfolio is created to showcase my skills, projects and achievements. It p
 The following are some of my notable projects:
 
 Project 1: Cash flow prediction using LSTM: 
-
-     The link for the project is : 
-              https://github.com/Keshav25-2002/Cashflow-Prediction-using-LSTM
+               The link for the project is :
+                    https://github.com/Keshav25-2002/Cashflow-Prediction-using-LSTM
               
 Project 2: Abstractive Text Summarization using NLP: 
         The link for the project is:
