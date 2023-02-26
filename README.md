@@ -27,11 +27,11 @@ Project 1: Cash flow prediction using LSTM:
               
 Project 2: Abstractive Text Summarization using NLP: 
         The link for the project is:
-                https://github.com/Keshav25-2002/Abstractive-Text-Summarization-Transformer-Model---NLP
+         https://github.com/Keshav25-2002/Abstractive-Text-Summarization-Transformer-Model---NLP
 
 <b>3.Skills</b>
 
-Keshav has experience in the following areas:
+I have experience in the following areas/languages:
 
 1.C,C++
 
